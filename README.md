@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @intgaj02
-- I’m interested in coding in python
-- 🌱 I’m currently learning deep learning and backend development
-- 💞️ I’m looking to collaborate on computer vision and NLP tasks
+- I’m interested in coding in C++ and python
+- 🌱 I’m currently learning game development
 - 📫 How to reach me email me at eyobwohabie@gmail.com
 
 <!---
